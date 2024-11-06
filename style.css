@@ -1,0 +1,59 @@
+.container {
+    text-align: center;
+    margin: 230px;
+}
+.logo {
+    margin: 15px;
+}
+.search{
+    width: 584px;
+    height: 48px;
+    padding-left: 45px ;
+    border-radius: 30px;
+    margin-bottom:15px;
+   border: 1px solid lightgray;
+}
+.search-icon {
+    width:23px;
+    height: 23px;
+    margin-bottom: -6px;
+    margin-left: -574px;
+
+}
+.voice{
+    width:25px;
+    height: 25px;
+    margin-bottom: -8px;
+    margin-left: 474px;
+    cursor: pointer;
+}
+.cam{
+    width:30px;
+    height: 30px;
+    margin-left: 3px;
+    margin-bottom: -11px;
+    cursor: pointer;
+}
+.bttn{
+    margin: 11px 4px;
+    width: 127.41px;
+    height: 36px;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    padding:0 16px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #3c4043;
+    cursor: pointer;
+}
+p{
+    font-size: 13px;
+}
+a{
+    font-size: 12px;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
