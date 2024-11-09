@@ -11,7 +11,13 @@
     padding-left: 45px ;
     border-radius: 30px;
     margin-bottom:15px;
-   border: 1px solid lightgray;
+   border: 1px solid white;
+   outline:none;
+background-color: #f8f9fa;
+}
+.search:hover{
+    background-color: lightgray;
+
 }
 .search-icon {
     width:23px;
