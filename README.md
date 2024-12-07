@@ -1,4 +1,4 @@
-Google Home Page Clone
+# Google Home Page Clone
 
 A static and simple replica of the Google homepage built with HTML and CSS.
 
